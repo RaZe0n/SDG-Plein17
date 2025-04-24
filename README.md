@@ -1,22 +1,18 @@
-# SDG-plein17
+# 🌍 SDG Plein 17 - Predicaat Aanvraag Platform
 
-# Must haves
+Dit project is ontwikkeld als schoolopdracht in samenwerking met **Stichting SDG Plein 17**. Het platform maakt het mogelijk voor gebruikers om predicaten aan te vragen, waarna beheerders deze kunnen bekijken en goedkeuren.
 
--   Landingpage
--   Contact formulier
--   Nieuws items
--   CTA secties
--   Foto biblioteek
--   Over SDG
+## ⚙️ Gebruikte technologieën
 
-# Should haves
+- **Laravel** – backend framework  
+- **Blade** – templating engine  
+- **Livewire** – interactieve frontend-componenten  
 
--   Verhuur van items
--   Pridicaten aanvragen
--   Jaarlijkse onderhoudsvragen voor de predicaten
--   Automatische servers
--   Admin paneel
+## 🧩 Functionaliteit
 
-# Won't haves
+- Gebruikers kunnen predicaten aanvragen via een formulier.
+- Admins hebben toegang tot een dashboard om aanvragen te beheren en goed te keuren.
 
--   Marketing gereleteerde doelen worden niet gedaan door Software development
+## 📚 Context
+
+Het project sluit aan bij de missie van SDG Plein 17, die zich inzet voor het bevorderen van de **Sustainable Development Goals (SDG's)** in Nederland.
